@@ -1,12 +1,7 @@
 # FemCoders Club
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-## Video de demostración
 
-<video width="320" height="240" controls>
-  <source src="videos/video.mp4" type="video/mp4">
-  Tu navegador no soporta el elemento <code>video</code>.
-</video>
 
 ###
 
