@@ -2,10 +2,8 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 
-<video width="320" height="240" controls>
-  <source src="videos/intento.mp4 type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Build Status](https://img.shields.io/github/workflow/status/Irina-Ichim/PruebaReadme/CI?label=Build&logo=github)](https://github.com/Irina-Ichim/PruebaReadme/actions/workflows/main.yml)
+
 
 ###
 
