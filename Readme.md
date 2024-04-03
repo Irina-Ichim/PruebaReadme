@@ -1,16 +1,11 @@
 # FemCoders Club
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 <video width="320" height="240" controls>
-  <source src="video.mp4" type="video/mp4">
+  <source src="videos/video.mp4 type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-...
-
-
 
 ###
 
