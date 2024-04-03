@@ -1,8 +1,10 @@
 # FemCoders Club
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-
+## Crear insignias
 [![Build Status](https://img.shields.io/github/workflow/status/Irina-Ichim/PruebaReadme/CI?label=Build&logo=github)](https://github.com/Irina-Ichim/PruebaReadme/actions/workflows/main.yml)
+## Crear Gif
+![Texto alternativo](videos/gif.gif)
 
 
 ###
